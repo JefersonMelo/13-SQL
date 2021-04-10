@@ -2,8 +2,8 @@
 
 ## Problemas Resolvidos
 
-| [#MRV](https://github.com/JefersonMelo/13-SQL/tree/main/Atividades-Propostas) | [#URI](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL) | [#LubySoftware](https://github.com/JefersonMelo/08-LubySoftware/blob/master/02-SQL/SQL.md) |
-| ------ | ------ | -----|
+|[#URI](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL)|[#LubySoftware](https://github.com/JefersonMelo/08-LubySoftware/blob/master/02-SQL/SQL.md)|[#MRV](https://github.com/JefersonMelo/13-SQL/tree/main/Atividades-Propostas)|
+| ----- | ----- | ----- |
 
 ## Comandos de Criação
 
