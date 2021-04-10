@@ -1,6 +1,6 @@
 # SQL
 
-## Resoluçõa de Problemas
+## Problemas Resolvidos
 
 | [#1](https://github.com/JefersonMelo/13-SQL/tree/main/Atividades-Propostas) | [#2](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL) |
 | ------ | ------ |
