@@ -2,9 +2,8 @@
 
 ## Resoluçõa de Problemas
 
-| [#1]() | [#2]() |
+| [#1](https://github.com/JefersonMelo/13-SQL/tree/main/Atividades-Propostas) | [#2](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL) |
 | ------ | ------ |
-|        |        |
 
 ## Comandos de Criação
 
