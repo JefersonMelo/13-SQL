@@ -1,6 +1,12 @@
 # SQL
 
-## Comandos
+## Resoluçõa de Problemas
+
+| [#1]() | [#2]() |
+| ------ | ------ |
+|        |        |
+
+## Comandos de Criação
 
 - ### Criar Banco de Dados
 
@@ -69,3 +75,16 @@ SELECT @NUM1 + @NUM2 AS RESULTADO
 GO
 ```
 
+- ### Execução Producere
+
+```"
+EXEC CONTA 90, 78
+GO
+```
+
+- ### Inserir Dados
+
+```"
+INSERT INTO NAME_TABLE_DB VALUES()
+GO
+```
