@@ -2,8 +2,8 @@
 
 ## Problemas Resolvidos
 
-| [#1](https://github.com/JefersonMelo/13-SQL/tree/main/Atividades-Propostas) | [#2](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL) |
-| ------ | ------ |
+| [#MRV](https://github.com/JefersonMelo/13-SQL/tree/main/Atividades-Propostas) | [#URI](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL) | [#LubySoftware](https://github.com/JefersonMelo/08-LubySoftware/blob/master/02-SQL/SQL.md) |
+| ------ | ------ | -----|
 
 ## Comandos de Criação
 
@@ -73,6 +73,8 @@ AS
 SELECT @NUM1 + @NUM2 AS RESULTADO
 GO
 ```
+
+- ## Comando de Execução
 
 - ### Execução Producere
 
