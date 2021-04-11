@@ -5,6 +5,22 @@
 |[#URI](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL)|[#LubySoftware](https://github.com/JefersonMelo/08-LubySoftware/tree/master/02-SQL)|[#MRV](https://github.com/JefersonMelo/13-SQL/tree/main/Atividades-Propostas)|
 | ----- | ----- | ----- |
 
+## Ver Estrutura da Tabela
+
+<!--
+SP_COLUMNS e SP_HELP são comandos para ver estrutura de tabelas
+-->
+
+```"
+SP_COLUMNS 
+GO
+```
+
+```"
+SP_HELP
+GO
+```
+
 ## Comandos de Criação
 
 - ### Criar Banco de Dados
@@ -68,7 +84,7 @@ GO
 - ### Criar Producere
 
 ```"
-CREATE PRODC CONTA @NUM1 INT, @NUM2 INT
+CREATE PROC CONTA @NUM1 INT, @NUM2 INT
 AS
 SELECT @NUM1 + @NUM2 AS RESULTADO
 GO
