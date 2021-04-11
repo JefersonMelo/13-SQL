@@ -1,8 +1,8 @@
 # SQL
 
-## Problemas Resolvidos
+## Problemas Resolvidos - SQL
 
-|[#URI](https://github.com/JefersonMelo/01-URI)|[#LubySoftware](https://github.com/JefersonMelo/08-LubySoftware/tree/master/02-SQL)|[#MRV](https://github.com/JefersonMelo/13-SQL/tree/main/Atividades-Propostas)|
+|[#URI](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL)|[#LubySoftware](https://github.com/JefersonMelo/08-LubySoftware/tree/master/02-SQL)|[#MRV](https://github.com/JefersonMelo/13-SQL/tree/main/Atividades-Propostas)|
 | ----- | ----- | ----- |
 
 ## Ver Estrutura da Tabela
